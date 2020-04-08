@@ -28,5 +28,5 @@ Your app is ready to be deployed!
 
 ### `Application Preview`
 
-Open [https://top-trumps-wb.netlify.com/](https://top-trumps-wb.netlify.com/ to view it in the browser.
+Open [https://top-trumps-wb.netlify.com](https://top-trumps-wb.netlify.com/) to view it in the browser.
 
