@@ -27,12 +27,12 @@ const NewCardForm = () => {
                             <div className="card-body">
                             <img src={Logo} width="100" height="50" alt="" /><h2 style={{display:"inline-block"}} className="text-left ml-3 mb-5">New Card</h2>
                                 <div className="row">
-                                    <div className="col-3">
+                                    <div className="col-sm-12 col-md-3">
                                     <label>Name</label>
                                        <div><input className="custom-select animal-name" type="text" placeholder="Animal Name" value={name}
                                             onChange={(e) => setName(e.target.value)} required /></div> 
                                     </div>
-                                    <div className="col-3">
+                                    <div className="col-sm-12 col-md-3">
                                         <label htmlFor="type">Type</label>
                                         <select className="custom-select" id="type" defaultValue={''} name="type" onChange={(e) => setType(e.target.value)} required>
                                             <option value='' disabled >Choose</option>
@@ -42,7 +42,7 @@ const NewCardForm = () => {
                                             <option value="amphibious">amphibious</option>
                                         </select>
                                     </div>
-                                    <div className="col-3">
+                                    <div className="col-sm-12 col-md-3">
                                         <label htmlFor="alive">Diet</label>
                                         <select className="custom-select"  id="diet" defaultValue={''} onChange={(e) => setDiet(e.target.value)} required>
                                             <option value='' disabled>Choose</option>
@@ -50,7 +50,7 @@ const NewCardForm = () => {
                                             <option value="cerbivores">herbivores</option>
                                         </select>
                                     </div>
-                                    <div className="col-3">
+                                    <div className="col-sm-12 col-md-3">
                                         <label htmlFor="alive">Living</label>
                                         <select className="custom-select"  id="alive" defaultValue={''} onChange={(e) => setExtinct(e.target.value)} required>
                                             <option value='' disabled>Choose</option>
