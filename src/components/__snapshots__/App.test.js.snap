@@ -1,0 +1,1621 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Top Trumps Card Check Nav Bar Main Logo 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <nav
+      class="navbar navbar-dark bg-dark mb-5"
+    >
+      <img
+        alt="nav-logo"
+        height="50"
+        src="logo.png"
+        width="100"
+      />
+      <div
+        class="pull-right"
+        data-testid="card-count"
+      >
+         
+        <h2
+          class="text-light"
+        >
+          You have 6 Cards
+        </h2>
+      </div>
+    </nav>
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                L
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Lion
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                T
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Tiger
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase dead"
+            >
+              <h2>
+                M
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Mammuthus
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  herbivorous 
+              </p>
+              <p
+                class="card-text font-weight text-danger"
+              >
+                Extinct
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                S
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Snake
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 reptile
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase dead"
+            >
+              <h2>
+                T
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Tuna
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 fish
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-danger"
+              >
+                Extinct
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                F
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Frog
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 amphibians
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="container"
+    >
+      <form>
+        <div
+          class="row"
+        >
+          <div
+            class="col-12"
+          >
+            <div
+              class="card shadow-lg p-3 mb-5 bg-white rounded"
+            >
+              <div
+                class="card-body"
+              >
+                <img
+                  alt=""
+                  height="50"
+                  src="logo.png"
+                  width="100"
+                />
+                <h2
+                  class="text-left ml-3 mb-5"
+                  style="display: inline-block;"
+                >
+                  New Card
+                </h2>
+                <div
+                  class="row"
+                >
+                  <div
+                    class="col-3"
+                  >
+                    <label>
+                      Name
+                    </label>
+                    <div>
+                      <input
+                        class="custom-select animal-name"
+                        placeholder="Animal Name"
+                        required=""
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="type"
+                    >
+                      Type
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="type"
+                      name="type"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="mammal"
+                      >
+                        mammal
+                      </option>
+                      <option
+                        value="reptile"
+                      >
+                        reptile
+                      </option>
+                      <option
+                        value="fish"
+                      >
+                        fish
+                      </option>
+                      <option
+                        value="amphibious"
+                      >
+                        amphibious
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="alive"
+                    >
+                      Diet
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="diet"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="carnivore"
+                      >
+                        carnivore
+                      </option>
+                      <option
+                        value="cerbivores"
+                      >
+                        herbivores
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="alive"
+                    >
+                      Living
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="alive"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="Extant"
+                      >
+                        Extant
+                      </option>
+                      <option
+                        value="Extinct"
+                      >
+                        Extinct
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-12 text-left mt-5"
+                  >
+                     
+                    <button
+                      class="btn btn-warning"
+                      type="submit"
+                    >
+                       Add Card 
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Top Trumps Card Check Nav Bar has 6 Cards by Default 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <nav
+      class="navbar navbar-dark bg-dark mb-5"
+    >
+      <img
+        alt="nav-logo"
+        height="50"
+        src="logo.png"
+        width="100"
+      />
+      <div
+        class="pull-right"
+        data-testid="card-count"
+      >
+         
+        <h2
+          class="text-light"
+        >
+          You have 6 Cards
+        </h2>
+      </div>
+    </nav>
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                L
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Lion
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                T
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Tiger
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase dead"
+            >
+              <h2>
+                M
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Mammuthus
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  herbivorous 
+              </p>
+              <p
+                class="card-text font-weight text-danger"
+              >
+                Extinct
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                S
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Snake
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 reptile
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase dead"
+            >
+              <h2>
+                T
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Tuna
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 fish
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-danger"
+              >
+                Extinct
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                F
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Frog
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 amphibians
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="container"
+    >
+      <form>
+        <div
+          class="row"
+        >
+          <div
+            class="col-12"
+          >
+            <div
+              class="card shadow-lg p-3 mb-5 bg-white rounded"
+            >
+              <div
+                class="card-body"
+              >
+                <img
+                  alt=""
+                  height="50"
+                  src="logo.png"
+                  width="100"
+                />
+                <h2
+                  class="text-left ml-3 mb-5"
+                  style="display: inline-block;"
+                >
+                  New Card
+                </h2>
+                <div
+                  class="row"
+                >
+                  <div
+                    class="col-3"
+                  >
+                    <label>
+                      Name
+                    </label>
+                    <div>
+                      <input
+                        class="custom-select animal-name"
+                        placeholder="Animal Name"
+                        required=""
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="type"
+                    >
+                      Type
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="type"
+                      name="type"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="mammal"
+                      >
+                        mammal
+                      </option>
+                      <option
+                        value="reptile"
+                      >
+                        reptile
+                      </option>
+                      <option
+                        value="fish"
+                      >
+                        fish
+                      </option>
+                      <option
+                        value="amphibious"
+                      >
+                        amphibious
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="alive"
+                    >
+                      Diet
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="diet"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="carnivore"
+                      >
+                        carnivore
+                      </option>
+                      <option
+                        value="cerbivores"
+                      >
+                        herbivores
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="alive"
+                    >
+                      Living
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="alive"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="Extant"
+                      >
+                        Extant
+                      </option>
+                      <option
+                        value="Extinct"
+                      >
+                        Extinct
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-12 text-left mt-5"
+                  >
+                     
+                    <button
+                      class="btn btn-warning"
+                      type="submit"
+                    >
+                       Add Card 
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Top Trumps Card Check Nav Bar has 6 Cards by Default 2`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <nav
+      class="navbar navbar-dark bg-dark mb-5"
+    >
+      <img
+        alt="nav-logo"
+        height="50"
+        src="logo.png"
+        width="100"
+      />
+      <div
+        class="pull-right"
+        data-testid="card-count"
+      >
+         
+        <h2
+          class="text-light"
+        >
+          You have 6 Cards
+        </h2>
+      </div>
+    </nav>
+    <div
+      class="container"
+    >
+      <div
+        class="row"
+      >
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                L
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Lion
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                T
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Tiger
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase dead"
+            >
+              <h2>
+                M
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Mammuthus
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 mammal
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  herbivorous 
+              </p>
+              <p
+                class="card-text font-weight text-danger"
+              >
+                Extinct
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                S
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Snake
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 reptile
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase dead"
+            >
+              <h2>
+                T
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Tuna
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 fish
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-danger"
+              >
+                Extinct
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="col-12 col-md-6 col-lg-3"
+        >
+          <div
+            class="card shadow-lg p-3 mb-5 bg-white rounded "
+          >
+            <div
+              class="random-box text-uppercase text-success"
+            >
+              <h2>
+                F
+              </h2>
+            </div>
+            <div
+              class="card-body"
+            >
+              <h4
+                class="card-title text-center text-uppercase"
+              >
+                Frog
+              </h4>
+              <p
+                class="card-title font-weight-lighter"
+              >
+                <strong>
+                  Type:
+                </strong>
+                 amphibians
+              </p>
+              <p
+                class="card-text font-weight-lighter"
+              >
+                <strong>
+                  Diet:
+                </strong>
+                  carnivore 
+              </p>
+              <p
+                class="card-text font-weight text-success"
+              >
+                Extant
+              </p>
+              <div
+                class="text-left"
+              >
+                <i
+                  class="fas fa-edit mr-3"
+                />
+                <i
+                  class="fas fa-trash-alt"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      class="container"
+    >
+      <form>
+        <div
+          class="row"
+        >
+          <div
+            class="col-12"
+          >
+            <div
+              class="card shadow-lg p-3 mb-5 bg-white rounded"
+            >
+              <div
+                class="card-body"
+              >
+                <img
+                  alt=""
+                  height="50"
+                  src="logo.png"
+                  width="100"
+                />
+                <h2
+                  class="text-left ml-3 mb-5"
+                  style="display: inline-block;"
+                >
+                  New Card
+                </h2>
+                <div
+                  class="row"
+                >
+                  <div
+                    class="col-3"
+                  >
+                    <label>
+                      Name
+                    </label>
+                    <div>
+                      <input
+                        class="custom-select animal-name"
+                        placeholder="Animal Name"
+                        required=""
+                        type="text"
+                        value=""
+                      />
+                    </div>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="type"
+                    >
+                      Type
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="type"
+                      name="type"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="mammal"
+                      >
+                        mammal
+                      </option>
+                      <option
+                        value="reptile"
+                      >
+                        reptile
+                      </option>
+                      <option
+                        value="fish"
+                      >
+                        fish
+                      </option>
+                      <option
+                        value="amphibious"
+                      >
+                        amphibious
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="alive"
+                    >
+                      Diet
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="diet"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="carnivore"
+                      >
+                        carnivore
+                      </option>
+                      <option
+                        value="cerbivores"
+                      >
+                        herbivores
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-3"
+                  >
+                    <label
+                      for="alive"
+                    >
+                      Living
+                    </label>
+                    <select
+                      class="custom-select"
+                      id="alive"
+                      required=""
+                    >
+                      <option
+                        disabled=""
+                        selected=""
+                        value=""
+                      >
+                        Choose
+                      </option>
+                      <option
+                        value="Extant"
+                      >
+                        Extant
+                      </option>
+                      <option
+                        value="Extinct"
+                      >
+                        Extinct
+                      </option>
+                    </select>
+                  </div>
+                  <div
+                    class="col-12 text-left mt-5"
+                  >
+                     
+                    <button
+                      class="btn btn-warning"
+                      type="submit"
+                    >
+                       Add Card 
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,60 @@
+body{
+    background-image: url("../img/bg.jpg");
+    background-color: #cccccc;
+}
+i {
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+img {
+    vertical-align: unset !important;
+}
+
+input.custom-select.animal-name {
+    background: #FFF;
+}
+
+h4.card-title{
+    font-size: 1.2rem ;
+}
+
+.random-box{
+    height: 200px;
+    text-align: center;
+    position: relative;
+    background: linear-gradient(#f15930, #FEBE1A);
+    
+    h2,{
+        font-size: 10rem;
+        color:#000;
+        position: absolute;
+        transform: translate(-50%,-50%);
+        top:50%;
+        left:50%;
+    }
+    input {
+        position: absolute;
+        transform: translate(-50%,-50%);
+        top:50%;
+        left:50%;
+        width: 88%;
+    }
+
+
+}
+
+
+
+.dead{
+    background: repeating-linear-gradient( 45deg,
+    #343A40,
+    #343A40 10px,
+    #d2d2d2 10px,
+    #d2d2d2 20px
+);
+ h2{
+   color:#FFF;
+ }
+   
+}
